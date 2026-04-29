@@ -1,0 +1,16 @@
+{
+  "name": "LocalFlow Calendar",
+  "short_name": "LocalFlow",
+  "description": "Privacy-first, offline-capable digital calendar.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
